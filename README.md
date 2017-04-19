@@ -1,1 +1,1 @@
-# Ejercicios Bash**Abril 19 / 2017**  **Bienvenido**  Contar la cantidad de procesos que se están ejecutando.  ```ps -A | wc -l```
+# Ejercicios Bash## Abril 19 / 2017  ## Bienvenido   **Ejercicio 1**  Contar la cantidad de procesos que se están ejecutando.  ```ps -A | wc -l```**Ejercicio 2**  Elevar 2 a la 4  ```export VAR1=$(( 2 ** 4 ))echo $VAR1```
